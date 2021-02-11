@@ -1,0 +1,67 @@
+header{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+section{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    
+}
+ 
+.titulo_1{ 
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: monospace;
+    background-color:darkgreen;
+    
+} 
+.parrafo_1{
+    color:black;
+    font-size: 15px;
+    font-family: inherit;
+}
+.center{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 300px;
+}
+.lista1{
+    font-family: fantasy;
+    font-size: 15px;
+    width: auto;
+}
+.lista2{
+    font-family: fantasy;
+    font-size: 20px;
+}
+.tabla{
+    border-color:brown;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    font-family:serif;
+    font-size: 20px;
+    text-align:center;
+}
+.direccion{
+    width: 200px;
+    font-size: 20px;
+    height: 300px;
+    font-family: monospace;
+}
+.busqueda{
+    font-size: 20px;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.encabezado1{
+    font-family:cursive;
+    font-size: 25px;
+    background-color: antiquewhite;
+    text-align: center;
+}
